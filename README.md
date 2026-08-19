@@ -63,7 +63,7 @@ The Logistic Regression model achieved an accuracy of approximately:
 
 **93.93%**
 
-> Accuracy alone may not fully represent model performance because the dataset contains significantly more non-stroke cases than stroke cases.
+ Accuracy alone may not fully represent model performance because the dataset contains significantly more non-stroke cases than stroke cases.
 
 ## 📁 Project Files
 
